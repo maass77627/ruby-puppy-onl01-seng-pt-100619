@@ -18,6 +18,8 @@ class Dog
       puts "#{doggy.name}"
     end 
   end
+  
+  def #save 
       
      
 end 
